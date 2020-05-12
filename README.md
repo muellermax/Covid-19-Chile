@@ -14,10 +14,10 @@ Of course it has to be noted that I only can work with the official data.
 
 ### Data sources
 Data on Covid-19 can be found through the websites of the Chilean government as well as on GitHub, which is very useful:  
-General GitHub repo: https://github.com/MinCiencia/Datos-COVID19/
-GitHub repo with data that I used: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto1
-Government webseite: http://www.minciencia.gob.cl/covid19
-Government webseite: https://www.gob.cl/coronavirus/cifrasoficiales/
+* General GitHub repo: https://github.com/MinCiencia/Datos-COVID19/
+* GitHub repo with data that I used: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto1
+* Government webseite: http://www.minciencia.gob.cl/covid19
+* Government webseite: https://www.gob.cl/coronavirus/cifrasoficiales/
 
 
 ### Acknowledgments
