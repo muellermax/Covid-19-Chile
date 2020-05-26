@@ -10,8 +10,8 @@ The plan is to make a dashboard that includes daily updated information about Co
 
 
 ### Data sources
-* Main data source is the [John Hopkins University CSSE database] (https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
-* Furthermore, the Chilean government provides daily [updated data also on a district level] (https://github.com/MinCiencia/Datos-COVID19/). 
+* Main data source is the [John Hopkins University CSSE database](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+* Furthermore, the Chilean government provides daily [updated data also on a district level](https://github.com/MinCiencia/Datos-COVID19/). 
 
 
 ### Further information to Covid-19 in Chile
