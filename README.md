@@ -13,6 +13,10 @@ The plan is to make a dashboard that includes daily updated information about Co
 * Main data source is the [John Hopkins University CSSE database](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 * Furthermore, the Chilean government provides daily [updated data also on a district level](https://github.com/MinCiencia/Datos-COVID19/). 
 
+### More ideas:
+* Single number with plotly to show the total confirmed cases/deaths: https://plotly.com/python/indicator/
+* Plots indicating the confirmed cases/deaths per 100,000 inhabitants
+
 
 ### Further information to Covid-19 in Chile
 * Government webseite: http://www.minciencia.gob.cl/covid19
